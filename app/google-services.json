@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "956225981849",
+    "project_id": "novo-project-dm",
+    "storage_bucket": "novo-project-dm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956225981849:android:6a9d6f71bec83465431708",
+        "android_client_info": {
+          "package_name": "com.example.projetodm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956225981849-u29iemdld36kceca3cod415t1d73kkeh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP8Ss0OT5LksVorRPMCo-fTXlv65oQBqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956225981849-u29iemdld36kceca3cod415t1d73kkeh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
